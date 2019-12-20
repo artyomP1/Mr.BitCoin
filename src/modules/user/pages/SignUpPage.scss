@@ -1,0 +1,47 @@
+
+.imgBitCoin {
+    width: 200px;
+    margin-top: 20px;
+    animation: rotation 10s infinite linear;
+  }
+  
+
+  
+  @keyframes rotation {
+    from {
+      transform: rotatey(0deg);
+    }
+    to {
+      transform: rotatey(359deg);
+    }
+    
+  }
+
+  .sign-up {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    // max-width: 200px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+label{
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+    input{
+      margin-bottom: 20px;
+    }
+
+    button{
+      border-radius: 10px;
+      outline: none;
+      height: 30px;
+      width :90px;
+ cursor: pointer;
+      border: none;
+      background-color: #FF5A5F ;
+      color: white;
+    }
+  }
+  
