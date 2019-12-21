@@ -11,6 +11,7 @@ export default function contactReducer(state = INITIAL_STATE, action) { //action
         case 'SET_CURR_CONTACT':
             // state.currContact = action.contact //WRONG BECAUSE NOT IMMUTABLE
             return {
+               
                 ...state,
                 currContact: action.contact
             }

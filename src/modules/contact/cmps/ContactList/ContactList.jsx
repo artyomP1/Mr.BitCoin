@@ -1,26 +1,20 @@
-import React from 'react';
-import {Link} from 'react-router-dom'
-import './ContactList.scss'
-import ContactPreview from '../ContactPreview/ContactPreview'
+import React from "react";
+import { Link } from "react-router-dom";
+import "./ContactList.scss";
+import ContactPreview from "../ContactPreview/ContactPreview";
 
-
-
-export default function ({contacts}){
-    // const click=()=>{
-    //     // e.stopPropagation();
-    //     console.log(1);
-    // }
-    return (<ul className="robot-list">
-    {contacts.map(contect => {
+export default function({ contacts }) {
+  return (
+    <ul className="robot-list">
+      {contacts.map(contect => {
         return (
-            <li  key={contect._id}>
+          <li key={contect._id}>
             <Link to={`/contacts/${contect._id}`}>
-                <ContactPreview contect={contect} />
+              <ContactPreview contect={contect} />
             </Link>
-            {/* <button onClick={click}> delete</button> */}
-
-            </li>
-        )
-    })}
-</ul>)
+          </li>
+        );
+      })}
+    </ul>
+  );
 }

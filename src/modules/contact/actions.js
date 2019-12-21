@@ -8,8 +8,6 @@ const setCurrContact = (contact) => {
 export const loadCurrContact = (id) => {
     return async(dispatch) => {
         const contact = await ContactService.getContactById(id)
-            // DO ANYTHING ASYNC
-
         return dispatch(setCurrContact(contact))
     }
 }
