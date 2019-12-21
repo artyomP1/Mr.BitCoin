@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artyomP1/Mr.BitCoin/deployments/static/css/main.427dfff1.chunk.css",
+    "main.js": "/artyomP1/Mr.BitCoin/deployments/static/js/main.dad226d6.chunk.js",
+    "main.js.map": "/artyomP1/Mr.BitCoin/deployments/static/js/main.dad226d6.chunk.js.map",
+    "runtime-main.js": "/artyomP1/Mr.BitCoin/deployments/static/js/runtime-main.b9ff4a27.js",
+    "runtime-main.js.map": "/artyomP1/Mr.BitCoin/deployments/static/js/runtime-main.b9ff4a27.js.map",
+    "static/js/2.114cf39c.chunk.js": "/artyomP1/Mr.BitCoin/deployments/static/js/2.114cf39c.chunk.js",
+    "static/js/2.114cf39c.chunk.js.map": "/artyomP1/Mr.BitCoin/deployments/static/js/2.114cf39c.chunk.js.map",
+    "index.html": "/artyomP1/Mr.BitCoin/deployments/index.html",
+    "precache-manifest.87fcf09ae226b6d5fa289613ba0a55dc.js": "/artyomP1/Mr.BitCoin/deployments/precache-manifest.87fcf09ae226b6d5fa289613ba0a55dc.js",
+    "service-worker.js": "/artyomP1/Mr.BitCoin/deployments/service-worker.js",
+    "static/css/main.427dfff1.chunk.css.map": "/artyomP1/Mr.BitCoin/deployments/static/css/main.427dfff1.chunk.css.map",
+    "static/js/2.114cf39c.chunk.js.LICENSE": "/artyomP1/Mr.BitCoin/deployments/static/js/2.114cf39c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ff4a27.js",
+    "static/js/2.114cf39c.chunk.js",
+    "static/css/main.427dfff1.chunk.css",
+    "static/js/main.dad226d6.chunk.js"
+  ]
+}
