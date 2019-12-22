@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfc2ba0d0cac62a9827a044a2a882207",
+    "revision": "e7c146334be0b34f6d0a4653a84a824e",
     "url": "/Mr.BitCoin/index.html"
   },
   {
-    "revision": "14f38bdf18bdc3df3b61",
+    "revision": "dcea5bc4ff957d5b448c",
     "url": "/Mr.BitCoin/static/css/main.07092a19.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mr.BitCoin/static/js/2.ba3b7038.chunk.js.LICENSE"
   },
   {
-    "revision": "14f38bdf18bdc3df3b61",
-    "url": "/Mr.BitCoin/static/js/main.5bfc2b82.chunk.js"
+    "revision": "dcea5bc4ff957d5b448c",
+    "url": "/Mr.BitCoin/static/js/main.c54ae0ae.chunk.js"
   },
   {
     "revision": "b07f8739b91b86b43f10",
